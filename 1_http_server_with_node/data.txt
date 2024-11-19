@@ -1,0 +1,2 @@
+Hi new user
+Hello from server
